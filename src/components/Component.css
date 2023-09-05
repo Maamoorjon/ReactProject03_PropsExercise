@@ -1,0 +1,18 @@
+.component {
+  width: 300px;
+  margin: 0 auto 10px;
+  border-radius: 20px;
+  color: blue;
+  border: 5px solid blue;
+  text-align: center;
+}
+
+.component.red {
+  color: red;
+  border: 5px solid red;
+}
+
+.component.green {
+  color: green;
+  border: 5px solid green;
+}
